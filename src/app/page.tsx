@@ -1,3 +1,3 @@
-export default function Home() {
-  return <h1>HELLO NIGGAS</h1>;
+export default function Page() {
+  return <h1>Welcome to the ALAS Home Page</h1>;
 }
